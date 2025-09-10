@@ -94,10 +94,9 @@ OLAMA_API_KEY=your_api_key_here
 
 ## 🖼 Screenshots
 
-![Homepage](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cbcb5e1b-3791-4d3b-9f90-81a6efebf9ee" />)
-![Loading](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df30f6d2-fc88-45bb-8d5c-1b6e693a8ab8" />)
-![Respone Section](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbbc6149-7631-4be5-b148-61d00cbe2431" />)
-
+![Homepage](https://github.com/user-attachments/assets/cbcb5e1b-3791-4d3b-9f90-81a6efebf9ee)
+![Loading](https://github.com/user-attachments/assets/df30f6d2-fc88-45bb-8d5c-1b6e693a8ab8)
+![Response Section](https://github.com/user-attachments/assets/dbbc6149-7631-4be5-b148-61d00cbe2431)
 
 ---
 
